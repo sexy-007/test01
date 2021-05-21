@@ -5,5 +5,7 @@ class QuickStart {
         System.out.println("sexy, aziz.");
 
 
+        System.out.println("");
+
     }
 }
